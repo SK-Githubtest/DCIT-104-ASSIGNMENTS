@@ -18,4 +18,6 @@ int main (){
     }
 
     cout <<"The sum of even numbers less than " <<num1<< " is: " <<sum;
+    
+    return 0;
 }
