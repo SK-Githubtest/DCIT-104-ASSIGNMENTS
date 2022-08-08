@@ -7,7 +7,7 @@ int main (){
     int i = 1;
     int sum = 0;
 
-    cout << "enter a number: ";
+    cout << "input a number: ";
     cin >> num1;
 
     while (i < num1){
